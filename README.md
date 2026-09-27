@@ -15,7 +15,7 @@ A sleek **Ghostty** setup featuring a custom **GLSL tesla-coil cursor trail shad
 </p>
 
 <p align="center">
-  <img src="demo.gif" alt="Ghostty demo — glass design with tesla coil cursor trail" width="620"/>
+  <img src="/Screenshot 2026-09-27 at 22.59.11.png" alt="Ghostty demo — glass design with tesla coil cursor trail" width="620"/>
 </p>
 
 > **Default (red trail)** — shader ships red. Swap the color block to **green** (code below).
