@@ -1,0 +1,17 @@
+font-size = 12
+font-family = JetBrainsMono Nerd Font
+background-opacity = 0.7
+background-blur = 20
+background-blur-radius = 20
+mouse-hide-while-typing = true
+window-decoration = true
+macos-option-as-alt = true
+theme = Catppuccin Mocha
+copy-on-select = clipboard
+macos-titlebar-style = transparent
+# Link your downloaded cursor trail shader
+custom-shader = shaders/tesla_coil.glsl
+
+# Optional: Keeps the shader active even when switching windows
+custom-shader-animation = always
+
